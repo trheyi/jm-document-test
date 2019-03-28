@@ -1,2 +1,2 @@
-# Pull Request 规范
+# EN:Pull Request 规范
 
