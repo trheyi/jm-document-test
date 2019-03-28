@@ -12,7 +12,7 @@
 
 * [Code Maker](gong-ju/dai-ma-sheng-cheng-qi.md)
 
-## 开发
+## Development
 
 * [Handook](kai-fa/kai-fa-shou-ce/README.md)
   * [C++](kai-fa/kai-fa-shou-ce/c++.md)
@@ -30,7 +30,7 @@
   * [开始前你需要掌握的技术栈](kai-fa/ji-chu-zhi-shi/kai-shi-qian-ni-xu-yao-zhang-wo-de-ji-shu-zhan.md)
   * [什么是微服务架构](kai-fa/ji-chu-zhi-shi/shen-me-shi-wei-fu-wu-jia-gou.md)
 
-## 运维
+## Maintenance
 
 * [Before Start](yun-wei/ji-chu-zhi-shi/README.md)
   * [开始前你需要掌握这些运维技术栈](yun-wei/ji-chu-zhi-shi/kai-shi-qian-ni-xu-yao-zhang-wo-zhe-xie-yun-wei-ji-shu-zhan.md)
@@ -44,7 +44,7 @@
   * [TARS 1.5.0 运维手册](yun-wei/yun-wei-shou-ce/tars-1.5.0-yun-wei-shou-ce.md)
   * [TARS 1.5.0 升级指南](yun-wei/yun-wei-shou-ce/tars-1.5.0-sheng-ji-zhi-nan.md)
 
-## 贡献
+## Contributing
 
 * [如何参与贡献？](gong-xian/ru-he-can-yu-gong-xian/README.md)
   * [搭建TARS开发环境，源码安装部署Tars](gong-xian/ru-he-can-yu-gong-xian/da-jian-tars-kai-fa-huan-jing-yuan-ma-an-zhuang-bu-shu-tars.md)
